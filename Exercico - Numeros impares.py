@@ -1,3 +1,4 @@
+#Atividade imprimir apenas números impares!
 Num = int(input("Digite um Número: "))
 
 for x in range(1, Num + 1):

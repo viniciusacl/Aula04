@@ -3,6 +3,6 @@ Num = int(input("Digite um Número: "))
 
 if Num > 0:
     for X in range(1,Num +1):
-        print(X)
+        print(X, end=" ")
 else:
-        print("NÚMERO INVÁLIDO!")   
+        print("NÚMERO INVÁLIDO!")      
